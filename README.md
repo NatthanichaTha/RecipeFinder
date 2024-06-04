@@ -1,6 +1,8 @@
 # RecipeFinder
 A FastAPI-based backend that provides endpoints for fetching and filtering recipes from a database with over 200k+ recipes! It allows users to retrieve random recipes, search recipes by ingredients, and search recipes by name.
 
+![RecipeFinder Logo](logo.png)
+
 ## Features
 - **Get Random Recipe:** Retrieve a random recipe with an optional filter for maximum preparation time.
 - **Get Recipes by Ingredients:** Search for recipes based on a list of ingredients, with optional filters for the number of ingredients and maximum preparation time.
